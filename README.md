@@ -1,0 +1,3 @@
+# GoServerMassanger
+
+server for messanger
